@@ -1,0 +1,91 @@
+{
+  "language": "vi",
+  "keyActive": "100011855520258FFOPPPQJ",
+  "DeveloperMode": true,
+  "autoCreateDB": true,
+  "allowInbox": false,
+  "autoClean": false,
+  "commandDisabled": [],
+  "eventDisabled": [],
+  "EMAIL": "",
+  "PASSWORD": "",
+  "OTPKEY": "",
+  "BOTNAME": "Bot Dưa hấu",
+  "PREFIX": "/",
+  "ADMINBOT": [
+    "100067591325273",
+    "100069361340217",
+    "100037648275316",
+    "100064929798315",
+    "100038099840572",
+    "100079479463723",
+    "100072440235996"
+  ],
+  "DATABASE": {
+    "sqlite": {
+      "storage": "data.sqlite"
+    }
+  },
+  "APPSTATEPATH": "appstate.json",
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "pauseLog": true,
+    "logLevel": "error",
+    "selfListen": true,
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15"
+  },
+  "version": "1.2.14",
+  "baolixi": {
+    "cooldownTime": 1200000
+  },
+  "cave": {
+    "cooldownTime": 1000000
+  },
+  "help": {
+    "autoUnsend": true,
+    "delayUnsend": 10
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyC0eTsffId9JOlve8OHQuvZEL5vrI1zX5Y",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "video": {
+    "YOUTUBE_API": "AIzaSyA7iJDD8jd7ItteGJddOBmolFrA-ZlYmtY",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "log": {
+    "enable": true
+  },
+  "menu": {
+    "autoUnsend": true,
+    "delayUnsend": 6120
+  },
+  "adminOnly": false,
+  "daily": {
+    "rewardDay1": {
+      "coin": 100
+    }
+  },
+  "loto": {
+    "maxPlayers": 10,
+    "getDelay": 8
+  },
+  "pokemon": {
+    "APIKEY": ""
+  },
+  "xidach": {
+    "maxPlayers": 5,
+    "normalWinBonus": 1,
+    "superWinBonus": 2,
+    "epicWinBonus": 4
+  },
+  "checktt": {
+    "maxColumn": 10
+  }
+}
